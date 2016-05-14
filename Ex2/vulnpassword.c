@@ -21,7 +21,6 @@ int main(void)
 
     if(pass)
     {
-       /* Now Give root or admin rights to user*/
         printf ("\n Root privileges given to the user \n");
     }
 

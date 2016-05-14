@@ -3,7 +3,6 @@
 void secretFunction()
 {
   printf("Congratulations!\n");
-  printf("You have entered in the secret function!\n");
 }
 
 void echo()
@@ -18,6 +17,5 @@ void echo()
 int main()
 {
   echo();
-
   return 0;
 }
