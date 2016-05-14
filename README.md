@@ -27,6 +27,7 @@
 5. Wait until the operating system installs (15-20 minutes)
 6. Launch the new operating system `sudo enter-chroot startxfce4`
 7. Install git -> `sudo apt-get install git`
+8. `git clone https://github.com/dsrikant/BufferOverflow.git`
 
 
 ## Helpful and Useful Links
