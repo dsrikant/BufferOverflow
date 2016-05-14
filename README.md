@@ -26,3 +26,18 @@
 5. Wait until the operating system installs (15-20 minutes)
 6. Launch the new operating system `sudo enter-chroot startxfce4`
 7. Install git -> `sudo apt-get install git`
+
+
+## Helpful and Useful Links
+
+Buffer Overflows
+- http://phrack.org/issues/49/14.html
+- https://www.defcon.org/images/defcon-15/dc15-presentations/Moyer/dc-15-moyer-WP.pdf
+
+Heap Spraying
+- https://www.blackhat.com/presentations/bh-europe-07/Sotirov/Presentation/bh-eu-07-sotirov-apr19.pdf
+
+
+Networks
+- https://github.com/openssl/openssl
+- https://technet.microsoft.com/en-us/library/cc775637(v=ws.10).aspx
